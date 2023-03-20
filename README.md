@@ -14,9 +14,16 @@ La gran simpleza de su sintaxis hizo que tuviera una rápida adopción y popular
 
 Son el equivalente a las etiquetas h1, h2, etc.
 
-**\# Encabezado nivel 1**  
-**\## Encabezado nivel 2**  
-**\### Encabezado nivel 3**  
-**\#### Encabezado nivel 4**  
-**\##### Encabezado nivel 5**  
-**\###### Encabezado nivel 6**  
+**\# Nivel 1**  
+**\## Nivel 2**  
+**\### Nivel 3**  
+**\#### Nivel 4**  
+**\##### Nivel 5**  
+**\###### Nivel 6**  
+
+# Nivel 1
+## Nivel 2  
+### Nivel 3  
+#### Nivel 4  
+##### Nivel 5  
+###### Nivel 6  
