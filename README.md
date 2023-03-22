@@ -12,18 +12,13 @@ La gran simpleza de su sintaxis hizo que tuviera una rápida adopción y popular
 
 # Titulos o encabezados
 
-Son el equivalente a las etiquetas h1, h2, etc.
+Son el equivalente a las etiquetas h1, h2, etc.  
+Debe haber un espacio entre el nombre del titulo y el simbolo numeral.  
+Los encabezados actuan como anclas a las que se puede acceder mediante el uso de etiquetas de tipo link.
 
 **\# Nivel 1**  
 **\## Nivel 2**  
 **\### Nivel 3**  
 **\#### Nivel 4**  
 **\##### Nivel 5**  
-**\###### Nivel 6**  
-
-# Nivel 1
-## Nivel 2  
-### Nivel 3  
-#### Nivel 4  
-##### Nivel 5  
-###### Nivel 6  
+**\###### Nivel 6**
